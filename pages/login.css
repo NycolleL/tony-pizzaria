@@ -1,0 +1,47 @@
+body{
+    height: 100vh;
+    background-image: url(./img/background.webp.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    padding: 32px 24px;
+    font-family: 'Roboto', sans-serif;
+}
+
+body::after{
+    position: absolute;
+    content: "";
+    inset: 0;
+    background: linear-gradient(0deg, #fff0, rgba(242, 119, 6, 1) 100%);
+    z-index: -1;
+}
+
+/* Acesse a sua conta */
+.frases-conteudo h1{
+    color: white;
+    width: 257px;
+    height: 99px;
+    margin-left: -7px;
+    margin-top: -455px;
+}
+
+/* O que você está esperando */
+.frases-conteudo p {
+    color: white;
+    width: 311px;
+    height: 57px;
+    margin-left: -7px;
+    margin-top: -10px;
+}
+
+/* Seu e-mail aqui */
+.frases-conteudo h2 {
+    color: white;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    width: 200px;
+    height: 19px;
+    margin-top: 150px;
+    margin-left: 90px;
+}
