@@ -1,0 +1,54 @@
+body{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    padding: 32px 24px;
+    font-family: 'Roboto', sans-serif;
+}
+
+body::after{
+    position: absolute;
+    content: "";
+    inset: 0;
+    background: linear-gradient(180deg, rgba(252, 121, 0, 0.58) 21.22%, rgba(252, 121, 0, 0) 100%);
+    z-index: -1;
+}
+
+/* HOME */
+.inicio h1 {
+    color: #fff;
+    margin-top: -10px;
+}
+
+/* Bom dia celso */
+.inicio p {
+    color: #fff;
+    margin-top: -20px; 
+}
+
+.imgCelso {
+    display: flex;
+    margin-left: 280px;
+    margin-top: -70px;
+}
+
+/* barra pesquisar */
+.pesquisar {
+    margin-top: 25px;
+}
+
+/* buscar por algo */
+.pesquisar p {
+    color: #000000;
+    opacity: 36%;
+    margin-top: -35px;
+    margin-left: 10px;
+    font-size: 14px;
+}
+
+.lupa{
+    margin-left: 280px;
+    margin-top: -30px;
+}

@@ -14,55 +14,34 @@ body{
     color: white;
     width: 257px;
     height: 99px;
-    margin-left: 10px;
-    margin-top: 50px;
+    margin-left: -90px;
+    margin-top: 60px;
 }
 
 /* O que você está esperando */
-.frase p {
+.frase p{
     color: white;
     width: 311px;
     height: 57px;
-    margin-left: -30px;
-    margin-top: 100px;
+    margin-top: -120px;
+    margin-left: -40px;
 } 
 
 /* Seu e-mail aqui */
-.cadastro h1 {
+.cadastro p {
     color: white;
     font-size: 16px;
     font-weight: 100;
-    margin-top: -27px;
+    margin-top: -30px;
     margin-left: 10px;
 } 
 
 /* img email */
  .email{
-    margin-top: -90px;
+    margin-top: -300px;
     margin-left: -30px;
-
 }  
 
 .linha1 {
     margin-left: -35px;
-}
-
-/* sua senha */
-.cadastro h2 {
-    color: white;
-    font-size: 16px;
-    font-weight: 100;
-    margin-top: -25px;
-    margin-left: 10px;
-}
-
-/* img senha  */
-.senha{
-    margin-top: 50px;
-    margin-left: -30px;
-}
-
-.linha2 {
-    margin-left: -35px;
-    font-weight: 100;
 }
