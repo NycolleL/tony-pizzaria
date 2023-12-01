@@ -49,6 +49,64 @@ body::after{
 }
 
 .lupa{
+    display: flex;
     margin-left: 280px;
-    margin-top: -30px;
+    margin-top: -35px;
+}
+
+.categorias {
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    margin-top: 40px;
+    font-size: 15px;
+}
+
+.quadrado6 {
+    display: flex;
+    margin-left: 285px;
+    margin-top: -55px;
+}
+
+.pizzasalgada {
+    display: flex;
+    margin-top: -40px;
+    margin-left: 12px;
+}
+
+.bebidas {
+    display: flex;
+    margin-top: -25px;
+    margin-left: 67px;
+}
+
+.frutas {
+    display: flex;
+    margin-top: -25px;
+    margin-left: 125px;
+}
+
+.pizzadoce {
+    display: flex;
+    margin-top: -25px;
+    margin-left: 183px;
+}
+
+.sorvete {
+    display: flex;
+    margin-top: -25px;
+    margin-left: 239px;
+}
+
+.bolos {
+    display: flex;
+    margin-top: -25px;
+    margin-left: 300px;
+}
+
+.favoritas {
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    display: flex;
+    font-size: 15px;
+    margin-top: 20px;
 }
