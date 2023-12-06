@@ -61,52 +61,144 @@ body::after{
     font-size: 15px;
 }
 
-.quadrado6 {
+.quadrados {
     display: flex;
-    margin-left: 285px;
-    margin-top: -55px;
+    margin-left: -2px;
+    margin-top: -10px;
+    gap: 7px;
 }
 
 .pizzasalgada {
     display: flex;
     margin-top: -40px;
-    margin-left: 12px;
+    margin-left: 10px;
 }
 
 .bebidas {
     display: flex;
     margin-top: -25px;
-    margin-left: 67px;
+    margin-left: 69px;
 }
 
 .frutas {
     display: flex;
     margin-top: -25px;
-    margin-left: 125px;
+    margin-left: 128px;
 }
 
 .pizzadoce {
     display: flex;
     margin-top: -25px;
-    margin-left: 183px;
+    margin-left: 187px;
 }
 
 .sorvete {
     display: flex;
-    margin-top: -25px;
-    margin-left: 239px;
+    margin-top: -23px;
+    margin-left: 246px;
 }
 
 .bolos {
     display: flex;
     margin-top: -25px;
-    margin-left: 300px;
+    margin-left: 305px;
 }
 
 .favoritas {
     color: white;
     text-shadow: black 0.1em 0.1em 0.2em;
-    display: flex;
     font-size: 15px;
-    margin-top: 20px;
+    margin-top: 30px;
 }
+
+.fav1 {
+    display: flex;
+    margin-top: -10px;
+    margin-left: -2px;
+}
+
+.fav2 {
+    display: flex;
+    margin-top: -104px;
+    margin-left: 170px;
+}
+
+.fav3 {
+    display: flex;
+    margin-top: -104px;
+    margin-left: 340px;
+}
+
+.preco {
+    margin-top: -45px;
+}
+
+.preco p {
+    color: #fff;
+    display: flex;
+    font-size: 12px;
+    margin-top: -23px;
+    margin-left: 5px;
+}
+
+.preco2 {
+    margin-left: 90px;
+    margin-top: -25px;
+}
+
+.preco2 p {
+    margin-left: 92px;
+}
+
+.recomendados {
+    color: #fff;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    font-size: 15px;
+    margin-top: 55px;
+}
+
+/* pizza2 recomendada */
+.rec2 {
+    display: flex;
+    margin-top: -123px;
+    margin-left: 210px;
+}
+
+.preco-rec {
+    margin-top: -45px;
+    margin-left: 2px;
+}
+
+.preco-rec p {
+    color: #fff;
+    font-size: 12px;
+    margin-top: -22px;
+    margin-left: 4px;
+}
+
+.preco-rec2 {
+    display: flex;
+    margin-left: 215px;
+    margin-top: -30px;
+}
+
+.preco-rec2 p {
+    display: flex;
+    margin-left: 215px;
+}
+
+/* .barra {
+    color: #F27706;
+    width: 360px;
+    height: 59px;
+} */
+
+/* .sombra {
+    background: #0000008C;
+    width: 112px;
+    height: 360px;
+    margin-top: 300px;
+    left: 23px;
+    border-radius: 0px, 0px, 0px, 8px;
+    z-index: 1;
+} */
