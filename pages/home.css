@@ -154,7 +154,7 @@ body::after{
     color: #fff;
     text-shadow: black 0.1em 0.1em 0.2em;
     font-size: 15px;
-    margin-top: 55px;
+    margin-top: 50px;
 }
 
 /* pizza2 recomendada */
@@ -165,27 +165,85 @@ body::after{
 }
 
 .preco-rec {
-    margin-top: -45px;
-    margin-left: 2px;
+    margin-top: -40px;
+    margin-left: 3px;
 }
 
 .preco-rec p {
     color: #fff;
     font-size: 12px;
-    margin-top: -22px;
-    margin-left: 4px;
+    margin-top: -20px;
+    margin-left: 7px;
 }
 
 .preco-rec2 {
     display: flex;
-    margin-left: 215px;
     margin-top: -30px;
+    margin-left: 215px;
 }
 
-.preco-rec2 p {
-    display: flex;
-    margin-left: 215px;
+.recomendados2 p {
+    margin-top: -16px;
+    margin-left: 220px;
 }
+
+.bebidas p {
+    color: #fff;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    font-size: 15px;
+    margin-top: 60px;
+    margin-left: -70px;
+}
+
+/* retangulo da coca */
+.retangulo1 {
+    margin-top: 90px;
+    margin-left: -60px;
+    height: 80px;
+}
+
+/* coca cola img */
+.coca-cola {
+    display: flex;
+    margin-left: -345px;
+    margin-top: -30px;
+    width: 60px;
+    height: 65px;
+}
+
+.coca-cola {
+    margin-top: 95px;
+}
+
+/* Coca-cola 2L */
+.conteudo-coca p {
+    color: #000000;
+    text-shadow: none;
+    margin-top: -60px;
+    margin-left: -280px;
+}
+
+/* refrigerante garrafa 3l */
+/* .coca-container h1 {
+    font-size: 13px;
+    margin-left: -280px;
+    margin-top: -40px;
+    opacity: 50%;
+} */
+
+/* embalagem economica */
+/* .coca-container h2 {
+    font-size: 13px;
+    margin-left: -280px;
+    margin-top: -10px;
+    opacity: 50%;
+}
+
+.preco-coca {
+    margin-left: -90px;
+    margin-top: 90px;
+} */
+
 
 /* .barra {
     color: #F27706;
