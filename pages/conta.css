@@ -1,0 +1,154 @@
+.pizzafundo img {
+    width: 820px;
+    margin-left: -20px;
+    margin-top: -20px;
+}
+/* FUNDO BRANCO */
+.fundo {
+    display: flex;
+    border-radius: 8px;
+    margin-top: -170px;
+    margin-left: -15px;
+    width: 800px;
+    z-index: 1;
+}
+
+/* FUNDO CINZA */
+.fundo-perfil img {
+    display: flex;
+    margin-top: -1520px;
+    width: 220px;
+    margin-left: 280px;
+}
+/* FOTO DO PERFIL */
+.perfil {
+    width: 90px;
+    margin-top: -80px;
+    margin-left: 170px;
+}
+
+/* BOLA VERMELHA */
+.adicionar-foto img {
+    width: 60px;
+    margin-left: 440px;
+}
+/* CAMERA */
+.camera img {
+    display: flex;
+    width: 30px;
+    margin-top: -55px;
+    margin-left: 450px;
+}
+
+/* NOME DO USUARIO */
+.dados-usuario p {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    color: #AEA6A6;
+    margin-left: 80px;
+    margin-top: 200px; 
+}
+/* FULANO DA SILVA */
+.dados-usuario h1 {
+    font-size: px;
+    color: #000;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 80px;
+    margin-top: -5px;
+}
+
+/* ENDERECO DE EMAIL */
+.endereco p {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    color: #AEA6A6;
+    margin-left: 80px;
+    margin-top: 70px;
+}
+/* fulado.silva@email.com.br */
+.endereco h1 {
+    font-size: px;
+    color: #000;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 80px;
+    margin-top: -5px;
+}
+/* LINHA */
+.endereco img {
+    display: flex;
+    width: 600px;
+    margin-left: 80px;
+} 
+
+/* SENHA */
+.senha p {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    color: #AEA6A6;
+    margin-left: 80px;
+    margin-top: 70px;
+}
+/* ********** */
+.senha h1 {
+    font-size: px;
+    color: #000;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 80px;
+    margin-top: -5px;  
+}
+/* LINHA */
+.senha img {
+    display: flex;
+    width: 600px;
+    margin-left: 80px;
+} 
+/* CONFIRMACAO DE SENHA */
+.confirmacao p {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    color: #AEA6A6;
+    margin-left: 80px;
+    margin-top: 70px;
+}
+/* ********* */
+.confirmacao h1 {
+    font-size: px;
+    color: #000;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 80px;
+    margin-top: -5px; 
+}
+/* LINHA */
+.confirmacao img {
+    display: flex;
+    width: 600px;
+    margin-left: 80px;
+} 
+/* TELEFONE */
+.telefone p {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    color: #AEA6A6;
+    margin-left: 80px;
+    margin-top: 70px;
+}
+/* NUMERO DO TELEFONE */
+.telefone h1 {
+    font-size: px;
+    color: #000;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 80px;
+    margin-top: -5px; 
+}
+/* LINHA */
+.telefone img {
+    display: flex;
+    width: 600px;
+    margin-left: 80px;
+} 
+/* LINHA */
+.linha-telefone {
+    display: flex;
+    width: 600px;
+    margin-left: 80px;
+} 

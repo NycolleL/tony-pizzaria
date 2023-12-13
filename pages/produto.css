@@ -1,0 +1,240 @@
+body{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    /* padding: 32px 24px; */
+    font-family: 'Roboto', sans-serif;
+}
+
+/* FOTO DA PIZZA */
+.detalhe-produto img {
+    width: 820px;
+    margin-left: -20px;
+}
+
+/* FUNDO BRANCO */
+.base img {
+    display: flex;
+    margin-top: -100px;
+    margin-left: -15px;
+    width: 820px;
+}
+
+/* PIZZA PEPERONI COM QUEIJO */
+.base p {
+    color: black;
+    font-size: 47px;
+    opacity: 60%;
+    width: 520px;
+    font-weight: 700;
+    margin-top: -1150px;
+    margin-left: 55px;
+}
+
+/* 19,65 */
+.base h1 {
+    color: #23CB98;
+    font-size: 50px;
+    margin-left: 55px;
+    margin-top: -10px;
+}
+
+.coracao {
+    display: flex;
+    width: 50px;
+    height: 50px;
+    margin-left: 650px;
+    margin-top: -230px;
+}
+
+/* DESCRICAO ESQUISITA DA PIZZA */
+.descricao p {
+    font-size: 27px;
+    color: #999999;
+    width: 635px;
+    margin-left: 55px;
+    margin-top: 190px;
+}
+
+.estrela1 {
+    width: 60px;
+    margin-left: 55px;
+}
+
+.estrela2 {
+    width: 60px;
+    margin-left: -10px;
+}
+
+.estrela3 {
+    width: 60px;
+    margin-left: -10px;
+}
+
+.estrela4 {
+    width: 60px;
+    margin-left: -10px;
+}
+
+.estrela5 {
+    width: 60px;
+    margin-left: -10px;
+}
+
+.comentarios img {
+    width: 50px;
+    margin-top: 100px;
+    margin-left: 55px;
+}
+
+.comentarios p {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    opacity: 60%;
+    margin-left: 125px;
+    margin-top: -50px;
+}
+
+.barracomentario img{
+    width: 670px;
+    margin-left: 55px;
+}
+
+.maria img {
+    width: 90px;
+    display: flex;
+    margin-top: -225px;
+    margin-left: 90px;
+} 
+
+/* MARIA DA SILVA */
+.maria h1 {
+    font-size: 25px;
+    color: #AEA6A6;
+    margin-left: 210px;
+    margin-top: -70px;
+}
+
+/* DATA COMENTARIO */
+.maria p {
+    font-size: 25px;
+    color: #AEA6A6;
+    margin-left: 210px;
+    margin-top: -10px; 
+}
+
+/* PIZZA MUITO BOA  */
+.comentario1 h1 {
+    font-size: 25px;
+    color: #AEA6A6;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+.comentario1 p {
+    font-size: 23px;
+    width: 600px;
+    color: #AEA6A6;
+    margin-left: 80px;
+    margin-top: -10px; 
+}
+
+/* ESTRELA AVALIÇÃO MARIA 1 */
+.av1 {
+    display: flex;
+    width: 60px;
+    margin-left: 450px;
+    margin-top: -230px;
+}
+/* ESTRELA AVALIÇÃO MARIA 2 */
+.av2 {
+    display: flex;
+    width: 60px;
+    margin-top: -60px;
+    margin-left: 505px;
+}
+/* ESTRELA AVALIÇÃO MARIA 3 */
+.av3 {
+    width: 60px;
+    display: flex;
+    margin-top: -60px;
+    margin-left: 555px;
+}
+
+.barracomentario2 img {
+    width: 670px;
+    margin-left: 55px;
+    margin-top: 180px;
+}
+
+.pedro img {
+    width: 90px;
+    display: flex;
+    margin-top: -220px;
+    margin-left: 90px;
+}
+
+/* PEDRO GOMES DIAS */
+.pedro h1 {
+    font-size: 25px;
+    color: #AEA6A6;
+    margin-left: 210px;
+    margin-top: -70px;
+}
+/* DATA COMENTARIO */
+.pedro p {
+    font-size: 25px;
+    color: #AEA6A6;
+    margin-left: 210px;
+    margin-top: -10px; 
+}
+/* ESSA PIZZA É DEMAIS RECOMENDO */
+.comentario2 h1 {
+    font-size: 25px;
+    color: #AEA6A6;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+/* COMENTARIO */
+.comentario2 p {
+    font-size: 23px;
+    width: 600px;
+    color: #AEA6A6;
+    margin-left: 80px;
+    margin-top: -10px; 
+}
+
+
+/* ESTRELA AVALIÇÃO PEDRO 1 */
+.star1 {
+    display: flex;
+    width: 60px;
+    margin-left: 450px;
+    margin-top: -230px;
+}
+/* ESTRELA AVALIÇÃO PEDRO 2 */
+.star2 {
+    display: flex;
+    width: 60px;
+    margin-top: -60px;
+    margin-left: 505px;
+}
+
+/* ESTRELA AVALIÇÃO PEDRO 3 */
+.star3 {
+    width: 60px;
+    display: flex;
+    margin-top: -60px;
+    margin-left: 555px;
+}
+/* ESTRELA AVALIÇÃO PEDRO 4 */
+.star4 {
+    width: 60px;
+    display: flex;
+    margin-top: -60px;
+    margin-left: 602px;
+}
+
+
